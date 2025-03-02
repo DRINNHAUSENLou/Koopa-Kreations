@@ -17,3 +17,6 @@ Ci-dessous une vidéo représentant mon site.
 https://youtu.be/Wlmspwwf6H8
 
 ![Capture d'écran 2025-03-02 184308](https://github.com/user-attachments/assets/b0c6630e-4171-4683-954b-898425cfab7c)
+
+<h3 align="left">Langages et Outils:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
