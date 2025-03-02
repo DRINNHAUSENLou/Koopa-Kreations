@@ -15,3 +15,5 @@ Enfin l'administrateur a tous les droits, et peut même supprimer le contenu.
 Ci-dessous une vidéo représentant mon site.
 
 https://youtu.be/Wlmspwwf6H8
+
+![Capture d'écran 2025-03-02 184308](https://github.com/user-attachments/assets/b0c6630e-4171-4683-954b-898425cfab7c)
